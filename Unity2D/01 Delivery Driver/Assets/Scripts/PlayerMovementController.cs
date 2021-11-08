@@ -1,3 +1,9 @@
+// Name: PlayerMovementController.cs
+// Author(s): Jeremy kings
+// Purpose: Move and rotate player
+// avatar based on user input.
+//
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
